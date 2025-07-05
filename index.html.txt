@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rohit Ranjan - GitHub Page</title>
+  
+  <!-- LinkedIn Badge Script -->
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+</head>
+<body>
+  <h1>Hello! I'm Rohit Ranjan 👋</h1>
+  <p>This is my GitHub Pages site with my LinkedIn profile badge below.</p>
+
+  <!-- LinkedIn Profile Badge -->
+  <div class="badge-base LI-profile-badge" 
+       data-locale="en_US" 
+       data-size="medium" 
+       data-theme="dark" 
+       data-type="VERTICAL" 
+       data-vanity="rohit-ranjan-6494b1217" 
+       data-version="v1">
+    <a class="badge-base__link LI-simple-link" 
+       href="https://in.linkedin.com/in/rohit-ranjan-6494b1217?trk=profile-badge">
+       Rohit Ranjan
+    </a>
+  </div>
+</body>
+</html>
